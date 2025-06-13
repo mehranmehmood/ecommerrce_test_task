@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641197976047",
+    "project_id": "ecommerce-task-test",
+    "storage_bucket": "ecommerce-task-test.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641197976047:android:14533d5a849bf07a942e1a",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_task_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJIRAFXpnCEBreAh8ZKW2_7-EVKtJPPVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
